@@ -1,0 +1,4 @@
+customer_name,phone_number,weight,pin_code,address,latitude,longitude,status
+Alice Johnson,9876543210,2.5,600001,"123 Anna Nagar, Chennai",13.08268,80.270718,unassigned
+Bob Smith,9123456789,1.2,600002,"45 MG Road, Chennai",13.081234,80.271111,unassigned
+Charlie Davis,9999999999,4,600003,"99 RK Salai, Chennai",13.079999,80.27,assigned

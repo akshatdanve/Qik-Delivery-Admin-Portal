@@ -1,0 +1,101 @@
+customer_name,phone_number,weight,pin_code,address,latitude,longitude,status
+"Vinod Kumar",6612394546,30.0,700001,"622 Nehru Street, Kolkata",22.552037,88.350814,in_transit
+"Sunita Verma",9908671336,45.0,400001,"373 Park Street, Mumbai",19.110357,72.912323,completed
+"Vinod Mishra",8701941448,47.3,560001,"816 Sector 5, Bangalore",12.970769,77.630331,in_transit
+"Priya Chopra",7481506038,37.1,400001,"878 Market Street, Mumbai",19.124384,72.893431,in_transit
+"Arun Agarwal",7802846493,28.6,600001,"850 Station Road, Chennai",13.086867,80.278165,unassigned
+"Rahul Tiwari",9476376481,15.1,110001,"505 Model Town, Delhi",28.647599,77.188731,unassigned
+"Vinod Gupta",8034735564,11.3,302001,"832 Sector 5, Jaipur",26.942265,75.804135,completed
+"Arun Malhotra",7050781464,8.6,560001,"940 Market Street, Bangalore",13.003096,77.587650,completed
+"Meera Mehta",8207853588,20.0,380001,"478 Sector 5, Ahmedabad",23.004371,72.528217,completed
+"Manoj Singh",8699284146,40.5,500001,"381 Civil Lines, Hyderabad",17.406497,78.463108,completed
+"Deepak Mishra",8963923652,13.5,560001,"770 Main Street, Bangalore",13.010616,77.566916,pending
+"Amit Gupta",6541087927,19.9,302001,"527 Market Street, Jaipur",26.884379,75.760289,unassigned
+"Vinod Singh",9948661790,46.0,500001,"113 Gandhi Road, Hyderabad",17.341079,78.518278,completed
+"Amit Tiwari",8645928397,42.4,560001,"446 Station Road, Bangalore",12.946997,77.597427,assigned
+"Priya Malhotra",6040898560,46.7,411001,"436 Nehru Street, Pune",18.483842,73.852677,completed
+"Vinod Agarwal",7120123547,11.0,560001,"678 Sector 5, Bangalore",12.954485,77.577160,unassigned
+"Sunita Singh",7638980763,17.7,411001,"769 Sector 5, Pune",18.549188,73.839520,pending
+"Priya Chopra",8467466619,21.8,302001,"367 Park Street, Jaipur",26.961680,75.814195,unassigned
+"Shanti Verma",8629548614,25.7,380001,"485 Main Street, Ahmedabad",23.061004,72.575552,completed
+"Priya Tiwari",7696765164,40.8,700001,"725 Sector 5, Kolkata",22.539279,88.403210,unassigned
+"Vikram Saxena",6006001000,23.6,700001,"515 Civil Lines, Kolkata",22.596350,88.343444,unassigned
+"Shanti Gupta",6825972299,3.1,600001,"831 Nehru Street, Chennai",13.106512,80.320186,assigned
+"Ritu Saxena",8392851380,14.2,110001,"845 Main Street, Delhi",28.603537,77.213941,pending
+"Vikram Joshi",7516876388,2.8,110001,"26 Main Street, Delhi",28.595146,77.179037,in_transit
+"Shanti Verma",9635994267,6.2,400001,"293 Market Street, Mumbai",19.064201,72.884832,pending
+"Ritu Kapoor",8802267717,7.0,302001,"996 Market Street, Jaipur",26.940297,75.746960,assigned
+"Ritu Verma",7997027664,7.2,226001,"563 Park Street, Lucknow",26.809890,80.919210,completed
+"Manoj Kumar",7261271036,24.0,700001,"498 MG Road, Kolkata",22.577373,88.364709,in_transit
+"Sunita Singh",9005149006,21.7,700001,"511 Civil Lines, Kolkata",22.584566,88.343805,unassigned
+"Arun Mishra",6049455915,23.5,411001,"987 MG Road, Pune",18.476938,73.894702,assigned
+"Deepak Sharma",6841169900,9.9,226001,"930 Nehru Street, Lucknow",26.817141,80.918470,in_transit
+"Rahul Chopra",9470135254,4.3,380001,"304 Park Street, Ahmedabad",22.983130,72.577840,pending
+"Sanjay Mehta",8856857036,39.9,302001,"24 Nehru Street, Jaipur",26.911036,75.767044,completed
+"Vikram Sinha",6539688914,38.7,500001,"794 Main Street, Hyderabad",17.340830,78.443546,assigned
+"Deepak Agarwal",7391035935,24.0,500001,"441 Station Road, Hyderabad",17.384771,78.521538,unassigned
+"Deepak Kapoor",7827811364,47.6,411001,"288 Gandhi Road, Pune",18.487254,73.889535,in_transit
+"Geeta Singh",6400744358,23.4,411001,"493 Gandhi Road, Pune",18.530910,73.850143,unassigned
+"Shanti Mehta",9943937262,5.6,600001,"267 Market Street, Chennai",13.081123,80.269723,completed
+"Arun Mishra",7081960930,40.0,226001,"36 Nehru Street, Lucknow",26.852769,80.965585,in_transit
+"Anita Saxena",7625561400,26.7,700001,"789 Station Road, Kolkata",22.579747,88.404748,completed
+"Deepak Shah",7681032126,4.7,560001,"718 Station Road, Bangalore",12.966251,77.565324,in_transit
+"Manoj Joshi",9896249204,20.4,600001,"314 Sector 5, Chennai",13.060106,80.276208,unassigned
+"Ritu Kapoor",6065009957,25.1,400001,"328 Park Street, Mumbai",19.086915,72.905505,unassigned
+"Vinod Agarwal",8650628089,16.5,411001,"189 Market Street, Pune",18.517481,73.814040,pending
+"Vikram Joshi",8511368581,29.3,400001,"950 Model Town, Mumbai",19.059392,72.836082,completed
+"Suresh Bansal",8560707390,14.5,226001,"992 Station Road, Lucknow",26.843167,80.948917,in_transit
+"Rahul Tiwari",6494762264,12.8,110001,"39 Park Street, Delhi",28.630123,77.180917,assigned
+"Vinod Sharma",9244965552,37.7,411001,"35 MG Road, Pune",18.504335,73.829788,unassigned
+"Vikram Tiwari",7093106062,16.1,411001,"437 Nehru Street, Pune",18.553329,73.902586,unassigned
+"Sunita Jain",9965892340,4.0,560001,"936 Civil Lines, Bangalore",12.953597,77.612773,unassigned
+"Rajesh Kumar",9876543210,2.5,110001,"123 MG Road, Delhi",28.6139,77.2090,unassigned
+"Priya Sharma",9876543211,1.8,400001,"456 Park Avenue, Mumbai",19.0760,72.8777,assigned
+"Amit Singh",9876543212,3.2,560001,"789 Brigade Road, Bangalore",12.9716,77.5946,in_transit
+"Sneha Verma",9876543213,2.1,600001,"321 Anna Salai, Chennai",13.0827,80.2707,completed
+"Vikram Patel",9876543214,4.5,700001,"654 Park Street, Kolkata",22.5726,88.3639,pending
+"Kavita Shah",9876543215,1.2,500001,"987 Jubilee Hills, Hyderabad",17.3850,78.4867,unassigned
+"Suresh Jain",9876543216,3.8,411001,"147 FC Road, Pune",18.5204,73.8567,assigned
+"Meera Agarwal",9876543217,2.9,380001,"258 CG Road, Ahmedabad",23.0225,72.5714,in_transit
+"Rahul Bansal",9876543218,1.7,302001,"369 MI Road, Jaipur",26.9124,75.7873,completed
+"Anita Mehta",9876543219,3.5,226001,"741 Hazratganj, Lucknow",26.8467,80.9462,pending
+"Deepak Malhotra",9876543220,2.3,110002,"852 Connaught Place, Delhi",28.6304,77.2177,unassigned
+"Pooja Chopra",9876543221,1.9,400002,"963 Bandra West, Mumbai",19.0596,72.8295,assigned
+"Sanjay Kapoor",9876543222,4.1,560002,"159 Koramangala, Bangalore",12.9352,77.6245,in_transit
+"Ritu Sinha",9876543223,2.7,600002,"357 T Nagar, Chennai",13.0418,80.2341,completed
+"Manoj Joshi",9876543224,3.3,700002,"468 Salt Lake, Kolkata",22.5675,88.4331,pending
+"Sunita Tiwari",9876543225,1.5,500002,"579 Banjara Hills, Hyderabad",17.4065,78.4691,unassigned
+"Arun Mishra",9876543226,2.8,411002,"681 Koregaon Park, Pune",18.5362,73.8967,assigned
+"Geeta Pandey",9876543227,3.7,380002,"792 Satellite, Ahmedabad",23.0300,72.5800,in_transit
+"Vinod Saxena",9876543228,2.2,302002,"814 Vaishali Nagar, Jaipur",26.9157,75.7441,completed
+"Shanti Gupta",9876543229,1.6,226002,"925 Gomti Nagar, Lucknow",26.8512,80.9671,pending
+"Ramesh Kumar",9876543230,3.9,110003,"136 Karol Bagh, Delhi",28.6519,77.1909,unassigned
+"Sunita Singh",9876543231,2.4,400003,"247 Andheri East, Mumbai",19.1136,72.8697,assigned
+"Prakash Verma",9876543232,1.3,560003,"358 Whitefield, Bangalore",12.9698,77.7500,in_transit
+"Kavita Patel",9876543233,4.2,600003,"469 Adyar, Chennai",13.0067,80.2206,completed
+"Mahesh Shah",9876543234,2.6,700003,"571 New Town, Kolkata",22.5958,88.4497,pending
+"Dinesh Jain",9876543235,3.1,500003,"682 Madhapur, Hyderabad",17.4485,78.3908,unassigned
+"Mukesh Agarwal",9876543236,1.8,411003,"793 Viman Nagar, Pune",18.5679,73.9143,assigned
+"Naresh Bansal",9876543237,2.9,380003,"815 Bopal, Ahmedabad",23.0395,72.4615,in_transit
+"Umesh Mehta",9876543238,3.6,302003,"926 Mansarovar, Jaipur",26.8829,75.7804,completed
+"Kamal Malhotra",9876543239,2.1,226003,"137 Indira Nagar, Lucknow",26.8467,80.9462,pending
+"Anil Chopra",9876543240,1.4,110004,"248 Lajpat Nagar, Delhi",28.5678,77.2436,unassigned
+"Ashok Kapoor",9876543241,4.3,400004,"359 Powai, Mumbai",19.1197,72.9056,assigned
+"Vinay Sinha",9876543242,2.8,560004,"461 Electronic City, Bangalore",12.8456,77.6603,in_transit
+"Ajay Joshi",9876543243,3.4,600004,"572 Velachery, Chennai",12.9815,80.2209,completed
+"Sanjay Tiwari",9876543244,1.7,700004,"683 Rajarhat, Kolkata",22.5958,88.4497,pending
+"Vijay Mishra",9876543245,2.5,500004,"794 Gachibowli, Hyderabad",17.4399,78.3489,unassigned
+"Manoj Pandey",9876543246,3.8,411004,"816 Hadapsar, Pune",18.5089,73.9260,assigned
+"Santosh Saxena",9876543247,2.3,380004,"927 Maninagar, Ahmedabad",22.9969,72.5951,in_transit
+"Devendra Gupta",9876543248,1.9,302004,"138 Malviya Nagar, Jaipur",26.8854,75.8155,completed
+"Ravi Kumar",9876543249,4.1,226004,"249 Alambagh, Lucknow",26.8288,80.9267,pending
+"Sunil Singh",9876543250,2.7,110005,"351 Rohini, Delhi",28.7041,77.1025,unassigned
+"Prakash Verma",9876543251,3.2,400005,"462 Thane West, Mumbai",19.1972,72.9722,assigned
+"Mahesh Patel",9876543252,1.6,560005,"573 Marathahalli, Bangalore",12.9591,77.7016,in_transit
+"Dinesh Shah",9876543253,2.9,600005,"684 Porur, Chennai",13.0358,80.1564,completed
+"Mukesh Jain",9876543254,3.5,700005,"795 Howrah, Kolkata",22.5958,88.2636,pending
+"Naresh Agarwal",9876543255,2.2,500005,"817 Kukatpally, Hyderabad",17.4840,78.4071,unassigned
+"Rajesh Bansal",9876543256,1.8,411005,"928 Wakad, Pune",18.5975,73.7898,assigned
+"Umesh Mehta",9876543257,4.4,380005,"139 Navrangpura, Ahmedabad",23.0395,72.5562,in_transit
+"Kamal Malhotra",9876543258,2.6,302005,"241 Sanganer, Jaipur",26.8176,75.7804,completed
+"Anil Chopra",9876543259,3.1,226005,"352 Aliganj, Lucknow",26.8955,80.9462,pending

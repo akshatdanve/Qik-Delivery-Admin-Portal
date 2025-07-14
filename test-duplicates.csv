@@ -1,0 +1,9 @@
+customer_name,phone_number,weight,pin_code,address,latitude,longitude,status
+John Doe,9876543210,2.5,560001,123 Main Street Bangalore,12.9716,77.5946,unassigned
+Jane Smith,9123456789,1.8,560002,456 Park Avenue Bangalore,12.9716,77.5946,unassigned
+Bob Johnson,9876543210,3.2,560003,789 Oak Street Bangalore,12.9716,77.5946,unassigned
+Alice Brown,9555666777,1.5,560004,321 Pine Street Bangalore,12.9716,77.5946,unassigned
+Mike Wilson,9123456789,2.1,560005,654 Elm Street Bangalore,12.9716,77.5946,unassigned
+Sarah Davis,9888777666,1.9,560006,987 Maple Street Bangalore,12.9716,77.5946,unassigned
+Tom Miller,9555666777,2.8,560007,159 Cedar Street Bangalore,12.9716,77.5946,unassigned
+Lisa Garcia,9999888777,1.7,560008,753 Birch Street Bangalore,12.9716,77.5946,unassigned 

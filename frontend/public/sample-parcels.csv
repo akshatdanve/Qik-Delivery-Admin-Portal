@@ -1,0 +1,6 @@
+customer_name,phone_number,weight,pin_code,address,latitude,longitude,status
+John Doe,9876543210,2.5,110001,123 Main Street Delhi,28.6139,77.2090,unassigned
+Jane Smith,9876543211,1.8,400001,456 Park Avenue Mumbai,19.0760,72.8777,unassigned
+Mike Johnson,9876543212,3.2,560001,789 MG Road Bangalore,12.9716,77.5946,unassigned
+Sarah Wilson,9876543213,2.1,600001,321 Anna Salai Chennai,13.0827,80.2707,unassigned
+David Brown,9876543214,4.5,700001,654 Park Street Kolkata,22.5726,88.3639,unassigned 

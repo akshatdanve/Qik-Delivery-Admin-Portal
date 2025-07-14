@@ -1,0 +1,36 @@
+customer_name,phone_number,weight,pin_code,address,latitude,longitude,status
+Ramesh Krishnan,9876543201,2.5,600001,T Nagar Main Road Chennai,13.0827,80.2707,unassigned
+Sangeetha Ravi,9123456780,1.8,600002,Anna Salai Chennai,13.0674,80.2376,unassigned
+Murali Mohan,9998887770,3.2,600003,Mount Road Chennai,13.0569,80.2461,unassigned
+Divya Lakshmi,9555666770,1.5,600004,Express Avenue Chennai,13.0569,80.2461,unassigned
+Balaji Subramanian,9444333220,2.1,600005,Vadapalani Chennai,13.0509,80.2120,unassigned
+Sowmya Narayan,9888777660,1.9,600006,Velachery Chennai,12.9756,80.2207,unassigned
+Srinivasan Iyer,9333222110,2.8,600007,Adyar Chennai,13.0067,80.2571,unassigned
+Kavya Devi,9777666550,1.7,600008,Mylapore Chennai,13.0339,80.2619,unassigned
+Ashwin Kumar,9222111001,3.0,600009,Nungambakkam Chennai,13.0678,80.2376,unassigned
+Preethi Srinivas,9666555441,2.3,600010,Egmore Chennai,13.0732,80.2609,unassigned
+Venkatesh Rao,9111000991,1.6,600011,Central Station Chennai,13.0827,80.2707,unassigned
+Lakshmi Priya,9555444331,2.9,600012,Marina Beach Chennai,13.0499,80.2824,unassigned
+Karthik Raj,9000999881,1.4,600013,Thiruvanmiyur Chennai,12.9820,80.2707,unassigned
+Deepika Sharma,9444333110,2.7,600014,OMR Chennai,12.9820,80.2707,unassigned
+Rajesh Kannan,9888777551,1.3,600015,ECR Chennai,12.9820,80.2707,unassigned
+Anitha Kumari,9333222001,2.4,600016,Tambaram Chennai,12.9249,80.1000,unassigned
+Gopal Krishna,9777666441,1.8,600017,Chrompet Chennai,12.9517,80.1462,unassigned
+Shanti Devi,9222111881,3.1,600018,Pallavaram Chennai,12.9675,80.1491,unassigned
+Narayan Murthy,9666555221,2.2,600019,GST Road Chennai,12.9675,80.1491,unassigned
+Bharathi Raman,9111000771,1.9,600020,Guindy Chennai,13.0067,80.2206,unassigned
+Sudhir Kumar,9555444110,2.6,600021,Saidapet Chennai,13.0216,80.2237,unassigned
+Ganga Devi,9000999661,1.5,600022,Kodambakkam Chennai,13.0521,80.2274,unassigned
+Praveen Raj,9444332991,2.8,600023,Koyambedu Chennai,13.0732,80.1963,unassigned
+Mala Suresh,9888777331,1.7,600024,Arumbakkam Chennai,13.0794,80.2028,unassigned
+Chandran Nair,9333222881,3.3,600025,Aminjikarai Chennai,13.0794,80.2028,unassigned
+Radha Krishna,9777666331,2.0,600026,Kilpauk Chennai,13.0868,80.2443,unassigned
+Vinod Kumar,9222111771,1.6,600027,Chetpet Chennai,13.0751,80.2437,unassigned
+Suma Rani,9666555111,2.9,600028,Purasaiwalkam Chennai,13.0868,80.2443,unassigned
+Mohan Lal,9111000661,1.4,600029,Perambur Chennai,13.1143,80.2329,unassigned
+Shobha Devi,9555443991,2.5,600030,Red Hills Chennai,13.1943,80.1755,unassigned
+Anil Verma,9000999551,1.8,600031,Avadi Chennai,13.1143,80.0988,unassigned
+Usha Rani,9444332881,3.0,600032,Ambattur Chennai,13.0988,80.1617,unassigned
+Bhaskar Reddy,9888777221,2.1,600033,Poonamallee Chennai,13.0481,80.0953,unassigned
+Kamala Devi,9333222771,1.9,600034,Porur Chennai,13.0358,80.1564,unassigned
+Raman Pillai,9777666221,2.7,600035,Maduravoyal Chennai,13.0358,80.1564,unassigned 
